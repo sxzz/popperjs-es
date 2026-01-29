@@ -1,6 +1,6 @@
 {
   "name": "@sxzz/popperjs-es",
-  "version": "2.11.7",
+  "version": "2.11.8",
   "description": "Tooltip and Popover Positioning Engine",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
